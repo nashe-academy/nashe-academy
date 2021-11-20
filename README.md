@@ -11,16 +11,20 @@
 ## Recursos
 
   - Aplicativo mobile focado em gameficação.
+    - **Quiz.**
     - Por fases.
     - Perguntas de edução financeiras.
     - Rank.
     - **Cripto.**
     - Remuneração por desafios cumpridos.
   - Plataforma de ensino focado em educação.
-  - Os personagens viram NFT
+  - Os personagens viram NFT?.
   - Lojas para personalizar o avatar
     - Cada personalização custa um valor X de nashe coins.
-    - **Dar pra pessoa vender**
+    - **Dar para o aluno vender itens**
+  - Professor poder acompanhar e ajudar o aluno.
+    - Aluno no meio do quiz pode criar uma dúvida par ao professor.
+    - Professor recebe a pergunta e pode responder ela.
 
 ## Cripto
  
